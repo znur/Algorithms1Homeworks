@@ -1,3 +1,4 @@
+package Percolation;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 /* We model a percolation system using an n-by-n grid of sites.
