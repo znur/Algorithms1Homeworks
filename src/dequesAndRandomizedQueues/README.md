@@ -1,4 +1,4 @@
-#Programming Assignment 2: Deques and Randomized Queues
+# Programming Assignment 2: Deques and Randomized Queues
 
 Dequeue. A double-ended queue or deque (pronounced "deck") is a generalization of a stack and a queue that supports adding and removing items from either the front or the back of the data structure.
 
